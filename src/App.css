@@ -1,0 +1,11 @@
+body {
+  background-image: linear-gradient(90deg, #264653, #2a9d8f);
+}
+
+h1 {
+  color: white;
+}
+
+.list-group-item {
+  background-color: #e6ebe0;
+}
